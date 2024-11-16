@@ -10,7 +10,7 @@ This project was built using Spring Boot, ensuring smooth backend operations and
 
 Spring Boot: Core framework for creating a fast and efficient RESTful API.
 Postman: Used to test and interact with the API endpoints (Create, Deposit, Withdraw, Delete, Get Account, etc.).
-Database Integration: Utilized a simple in-memory database (H2) to store account details and transactions.
+Database Integration: Utilized a simple in-memory database (MySQL) to store account details and transactions.
 Security: Implemented basic security features to ensure that only authorized users can access sensitive information.
 RESTful Design: Followed REST principles for clean and scalable API endpoints.
 Key Features:
